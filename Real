@@ -1,0 +1,42 @@
+const name = "José";
+const surname = "Conzaleś";
+const yearOfBirth = 1990;
+const currentYear = 2024;
+const age =
+ "currentYear - yearOfBirth";
+const colour = "Cyan";
+const major =
+ "Technology and engineering";
+const maritalStatus = "Married";
+const wife = "Miranda Conzales";
+const job = "Technician";
+const nationality =
+ "Spanish and American";
+const race = "White";
+const street =
+ "2799b whiteoak Str."
+
+console.log("Name(s):" + " " +
+ name + " " +
+ surname);
+console.log("Age: " + " " +
+ (currentYear -
+  yearOfBirth));
+console.log(
+ "Favourite Colour:" + " " +
+ colour);
+console.log("Major:" + " " +
+ major);
+console.log("Current Job:" +
+ " " + job);
+console.log("Nationality:" +
+ " " + nationality);
+console.log("Race:" + " " +
+ race);
+console.log("Marital Status:" +
+ " " + maritalStatus)
+console.log("Wife:" + " " +
+ wife)
+console.log(
+ "Physical Address:" + " " +
+ street)
